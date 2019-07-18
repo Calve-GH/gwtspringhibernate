@@ -1,4 +1,4 @@
-# gwtspringhibernate
+# Test task javarush
 В настройках Application.gwt.xml добавлены строки: 
 set-property name="gxt.user.agent" value="safari5, chrome"
 collapse-property name="user.agent" values="safari*"
